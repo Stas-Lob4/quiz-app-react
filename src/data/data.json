@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript Basics",
+    "questions": [
+      {
+        "id": 101,
+        "text": "What does the 'typeof' operator return for an array?",
+        "answers": [
+          {
+            "id": 1001,
+            "text": "object",
+            "isCorrect": true
+          },
+          {
+            "id": 1002,
+            "text": "array",
+            "isCorrect": false
+          },
+          {
+            "id": 1003,
+            "text": "function",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "text": "Which method is used to add elements to the end of an array?",
+        "answers": [
+          {
+            "id": 1004,
+            "text": "push()",
+            "isCorrect": true
+          },
+          {
+            "id": 1005,
+            "text": "pop()",
+            "isCorrect": false
+          },
+          {
+            "id": 1006,
+            "text": "shift()",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "HTML Basics",
+    "questions": [
+      {
+        "id": 201,
+        "text": "What does HTML stand for?",
+        "answers": [
+          {
+            "id": 2001,
+            "text": "Hyper Text Markup Language",
+            "isCorrect": true
+          },
+          {
+            "id": 2002,
+            "text": "Highly Typed Markup Language",
+            "isCorrect": false
+          },
+          {
+            "id": 2003,
+            "text": "Home Tool for Markup Language",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "text": "Which tag is used for creating a hyperlink?",
+        "answers": [
+          {
+            "id": 2004,
+            "text": "<a>",
+            "isCorrect": true
+          },
+          {
+            "id": 2005,
+            "text": "<h1>",
+            "isCorrect": false
+          },
+          {
+            "id": 2006,
+            "text": "<p>",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
